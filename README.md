@@ -1,9 +1,10 @@
 # springMVC
-board project with spring and mybatis (Refer to https://salmon2.github.io/spring/2021/06/15/spring-board/)
+board project with spring and mybatis (Refer to https://tjdans.tistory.com/11?category=992472)
 
 * 개발환경
   - IDE: IntelliJ
-  - Gradle application
+  - Java 17, Gradle application
+  - Spring Boot 3.1.0
   - dependencies
    - spring web
    - Lombok
